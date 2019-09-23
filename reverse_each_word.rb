@@ -15,3 +15,5 @@ def reverse_each_word(string)
   end
   new_array.join(" ")
 end
+
+print reverse_each_word("Hello there, and how are you?")
